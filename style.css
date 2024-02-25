@@ -1,0 +1,93 @@
+body {
+    background-color:rgb(173, 173, 255);
+    padding: 0px ;
+    margin: 0px ;
+}
+#header {
+
+background-color:rgb(17, 26, 158) ;
+padding: 10px;
+height: 210 px;
+border-bottom: 5px solid black;
+}
+#content {
+
+background-color:white ;
+padding: 10px;
+height: 100%;
+}
+#footer {
+border-top: 5px solid black;
+background-color: rgb(255, 2, 2);
+padding: 10px;
+
+}
+.photo {
+height: 150px;
+width: 160px;
+float: left ;
+border: 5px solid white;
+}
+.name {
+    color: aliceblue;
+    font-size: 50px;
+    height: 0%;
+    margin-top: 0%;
+    margin-left: 20%;
+    margin-bottom: 0%;
+}
+.description {
+    margin-left: 20%;
+    color: aliceblue;
+    
+}
+.experience {
+    background-color: bisque;
+    border: 3px solid firebrick;
+    border-radius: 10px;
+    border-bottom: 10px;
+    text-align: center;
+    width: 50%;
+    
+}
+
+.card{
+    background-color: aquamarine;
+    border: 2px solid rgb(5, 5, 5);
+    border-radius: 10px;
+    width: 40%;
+    display: inline-block;
+
+}
+#footer h1 {
+    text-align: center;
+    color: white;
+    margin-bottom: 10px;
+}
+
+#footer ul {
+    text-align: center;
+    list-style-type: none;
+}
+
+#footer ul li a {
+    color: white;
+    text-decoration: none;
+}
+}
+
+#footer h1 {
+    text-align: center;
+    color: white;
+    margin-bottom: 10px;
+}
+
+#footer ul {
+    text-align: center;
+    list-style-type: none;
+}
+
+#footer ul li a {
+    color: white;
+    text-decoration: none;
+}
